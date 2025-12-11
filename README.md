@@ -83,4 +83,11 @@ In order to use Tailwind CSS
 -configure postcss : tells our project to use Tailwind classes in CSS
 -import tailwind in global CSS
 
-8. 
+8. Steps to push code
+
+Link git repo to local : git remote add origin <your-github-repo-url>
+Check branch name/rename: git branch -M main   
+Check status : git status
+Stage all files: git add .
+Create first commit: git commit -m "/…."
+Push code to the git: Git push -u origin main
