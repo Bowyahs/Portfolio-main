@@ -15,7 +15,7 @@ export default function About() {
         </p>
 
         <p>
-          My journey into the tech world started in 2021, fresh out of undergrad in India. 🇮🇳 
+          My journey into the tech world started in 2021, fresh out of undergrad in India.
           I joined Infosys and quickly realized that full-stack development was where the magic happens; 
           writing backend logic ⚙️, debugging tricky code, and collaborating in Agile teams was extremely challenging and kinda addictive.
         </p>
